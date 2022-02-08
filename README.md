@@ -1,3 +1,2 @@
-Welcome to my GitHub Page.
+Welcome to my Portfolio.
 
-Currently, this serves as a place for my portfolio code.
